@@ -1,4 +1,5 @@
-import string, random
+import random
+import string
 
 secret_string = "INSERT YOUR SECRET STRING"
 
